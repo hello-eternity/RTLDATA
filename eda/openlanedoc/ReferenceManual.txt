@@ -1,0 +1,65 @@
+Reference Manual#
+Command-Line Arguments
+Design Configuration Files
+Initializing a design for use with OpenLane
+JSON
+Processing
+Conditional Execution
+Variable Reference
+Expression Engine
+Tcl
+Replicate/Create Design Configs for a (PDK,STD_CELL_LIBRARY) Pair:
+Update Design Configs for a (PDK,STD_CELL_LIBRARY) Pair after an Exploration:
+Flow Configuration Variables
+General
+Macros/Chip Integration
+Linting
+Synthesis
+Static Timing Analysis (STA)
+Floorplanning (FP)
+Deprecated I/O Layer variables
+All Resizer (RSZ) Steps
+Global and Detailed Placement (GPL/DPL)
+Clock Tree Synthesis (CTS)
+Global and Detailed Routing (GRT/DRT)
+Custom Diode Insertion Scripts
+Parasitic Resistance/Capacitance Extraction (RCX)
+IR Drop Analysis
+Signoff
+Magic
+KLayout
+Layout vs. Schematic (LVS)
+Checkers
+Misc.
+PDK Configuration Variables
+User-Modifiable
+Static
+SCL-specific variables
+Modifiable
+Static
+Tracks Info File
+DRC Exclude Cells File
+No Synthesis Cells File
+Tcl Commands
+General Commands
+Checker Commands
+Synthesis/Verilog Commands
+Floorplan Commands
+Placement Commands
+CTS Commands
+Fill Insertion/Diode Insertion Commands
+PDN Generation Commands
+Routing Commands
+Magic Commands
+KLayout Commands
+LVS Commands
+ERC Commands
+Utility Commands
+Interactive Mode
+Datapoint Definitions
+Default Printed Information Variables
+Default Printed Configuration Variables
+Optional variables
+Viewing layouts graphically
+Usage
+Command-line interface (CLI)

@@ -1,0 +1,15 @@
+{
+    "DESIGN_NAME": "blabla",
+    "VERILOG_FILES": "dir::src/blabla.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_NET": "clk",
+    "RUN_HEURISTIC_DIODE_INSERTION": true,
+    "GLB_RESIZER_MAX_WIRE_LENGTH": 500,
+    "PL_RESIZER_MAX_WIRE_LENGTH": 500,
+    "CTS_CLK_MAX_WIRE_LENGTH": 500,
+    "DIODE_ON_PORTS": "in",
+    "pdk::sky130*": {
+        "FP_CORE_UTIL": 5,
+        "CLOCK_PERIOD": 65
+    }
+}

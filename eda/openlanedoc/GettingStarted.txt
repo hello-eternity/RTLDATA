@@ -1,0 +1,46 @@
+Getting Started#
+Installation
+Ubuntu 20.04+
+Installation of required packages
+Docker Installation
+Making Docker available without root (Linux)
+Checking the Docker Installation
+Troubleshooting docker installation issues [Linux/Ubuntu only]
+Checking Installation Requirements
+Download and Install OpenLane
+Optional: Viewing Test Design Outputs
+macOS 11+
+Installation of required packages
+Checking the Docker Installation
+Troubleshooting docker installation issues [Linux/Ubuntu only]
+Checking Installation Requirements
+Download and Install OpenLane
+Optional: Viewing Test Design Outputs
+Windows 10+
+Installation of required packages
+Checking the Docker Installation
+Troubleshooting docker installation issues [Linux/Ubuntu only]
+Checking Installation Requirements
+Download and Install OpenLane
+Optional: Viewing Test Design Outputs
+Other Linux
+Installation steps
+Installation of Required Packages
+Docker Installation
+Making Docker available without root (Linux)
+Checking the Docker Installation
+Troubleshooting docker installation issues [Linux/Ubuntu only]
+Checking Installation Requirements
+Download and Install OpenLane
+Optional: Viewing Test Design Outputs
+Containerless/Local
+Base Requirements
+Tool Library
+How this works
+Updating OpenLane
+Quick-Start Guide
+Overview
+Starting the OpenLane Environment
+Running the flow
+Creating new designs
+Advanced: Using custom PDK locations and OpenLane Docker images

@@ -1,0 +1,42 @@
+Developer’s Guide#
+Contributing Code
+Branching
+Testing and Code Standards
+Choice of Language
+Tcl
+Python
+Yosys, OpenROAD and Magic Scripts
+Submissions
+The Approval Process
+Licensing and Copyright
+Contributing Docs
+Introduction
+Building documentation locally
+Documentation organization
+Writing Style and Consistency
+Term Consistency
+Taking screenshots
+Troubleshooting
+pip module related errors
+Porting a PDK
+Folder structure
+Configuration Files
+or_issue.py
+Warning about proprietary files
+Usage
+Failures
+Odd Behavior
+Manually
+Continuous Integration
+Required Secrets/Variables
+Common
+CI
+Tool Updater
+Building and Customizing the Docker Image
+Structure
+Building the OpenLane Image
+Updating a Tool Binary
+Running the newly created Docker image
+Running as root
+Issue regression tests
+Issue regression tests flow

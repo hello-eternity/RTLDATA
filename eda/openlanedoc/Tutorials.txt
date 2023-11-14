@@ -1,0 +1,35 @@
+Tutorials#
+Hierarchical chip design (with macros)
+Hardening the mem_1r1w macroblock
+Create the memory macro design
+Create the RTL files
+Configure mem_1r1w
+Run the flow on the macroblock
+Analyzing the flow-generated files
+Chip level integration
+Create chip level
+Integrate the macros
+Verilog files
+Run the flow
+First issue
+Run the flow again
+Analyzing the results
+Exploring your designs
+Demo: Debugging LVS issues due to PDN issues
+Designing a chip with an OpenRAM (sky130)
+Overview
+Create a new design
+Create the Verilog files
+Connect the layout files and abstracts
+Connect the blackbox information and timing data
+Power/Ground nets
+Power/Ground PDN connections
+Floorplanning
+Macrocell placement
+Common problems to avoid
+DRCs inside SRAM macros
+DRC because of PDN being too close to the met4 inside SRAM
+Setup violations
+JSON syntax error regarding the comma
+Optional: Memory footprint
+Running the flow
